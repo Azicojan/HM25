@@ -8,6 +8,7 @@ console.log(`This time I'm going to use Git Bash to commit and send this message
 <<<<<<< HEAD
 console.log(`I'm sending message to master branch`);
 =======
+
 console.log(`Now I'm trying to figure out how to create new branches via Bash.`);
 console.log('message to the bugFix branch.');
 console.log(`Well, I've created a script and HTML files on my computer, added a repo applying git init.Next,
